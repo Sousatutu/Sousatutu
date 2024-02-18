@@ -14,7 +14,7 @@
   
 </div>
 
-### Estutante do IFTO, formando em técnico em informática 👨🏾‍💻
-<div style="display: inline_block"><br/>
-    <img alt="ifto" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logomarca_IFTO_versao3.jpg" Height="150" width="100">
-</div>
+### Atualmente
+ • Estutante do IFTO, formando em técnico em informática 👨🏾‍💻<br>
+ • Estudo linguagem de programação, para aprender mais <br>
+ • Predento seguir na carreira de TI <br>
